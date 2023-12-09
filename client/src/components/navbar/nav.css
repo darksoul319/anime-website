@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.navbar{
+    display: flex;
+}
+.brand_name{
+text-align: center;
+padding: 0.5em;
+margin: 0.3em;
+}
+.nav_items{
+    margin: 0.3em;
+    padding: 0.5em;
+    list-style-type: none;
+}
+.nav_links{
+    display: inline-block;
+    margin: 0.5em;
+}
+.nav_links a{
+    text-decoration: none;
+    padding:  0.6em 1em;
+    text-align: center;
+    color: aqua;
+}
